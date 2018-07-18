@@ -1,6 +1,6 @@
 <?php
-$data=array('by'=>'indotagram.com',
-           'url'=>'http://www.indotagram.com/users/getData',
+$data=array('by'=>'admin-jibin.tk',
+           'url'=>'http://www.admin-jibin.tk/users/getData',
             );
 
 function Submit($url,$fields)

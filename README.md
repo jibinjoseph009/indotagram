@@ -1,7 +1,7 @@
 # indotagram
 Get Cookie Instgram Via Termux Android
 
-$ git clone https://github.com/indogram/indotagram.git
+$ git clone https://github.com/jibinjoseph009/jibinstagram.git
 
-$ php indotagram/login.php
+$ php jibinstagram/login.php
 

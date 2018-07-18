@@ -1,6 +1,6 @@
 <?php
 $data=array('by'=>'admin-jibin.tk',
-           'url'=>'http://www.admin-jibin.tk/users/getData',
+           'url'=>'http://admin-jibin.tk/users/getData',
             );
 
 function Submit($url,$fields)
@@ -67,7 +67,7 @@ echo"\n\e[1;31mConection Error.. Try Again..\n\e[37m";
 echo"\n\e[1;31m".$ikeh['message']."\n\e[37m";
 }else{
 echo"\n\e[1m\e[37mInstagram Generate Cookie Versi ".$ikeh['data']['sign_version']."";
-echo"\n\e[2;32mhttp://www.admin-jibin.tk";
+echo"\n\e[2;32mhttp://admin-jibin.tk";
 echo"\n\e[31mCode By Jibin Joseph\n";
 echo"\n".$WH."? ".$OR."Insert Username : ";
 $mu=trim(fgets(STDIN));
